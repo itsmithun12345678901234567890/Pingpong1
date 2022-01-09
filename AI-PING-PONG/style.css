@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    float: none;
+    position: absolute;
+    top: 125px;
+    left:600px;
+}
+
+#header{
+    color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Instructions{
+    left: 50px;
+}
+
+#play{
+    top: 500px;
+}
+
